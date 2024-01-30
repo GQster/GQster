@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://github.com/kshyun28">
-    <img src="assets/header.gif" alt="Hello World, I'm Grant!" />
-  </a>
-Background GIF by <a href="https://www.pinterest.com/pin/5277724550564022/">Aliciel</a> on <a href="https://www.pinterest.com/">Pinterest</a>.
+
+[![Hello World, I'm Grant!](assets/header.gif)](https://github.com/gqster)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+
 </div>
 
 - 🔭 I’m currently working on a CS MS at GaTech
