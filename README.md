@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Hello World, I'm Grant!](assets/header.gif)](https://github.com/kshyun28)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
 
 - 🔭 I’m currently working on a CS MS at GaTech
