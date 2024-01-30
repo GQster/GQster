@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Grant!](assets/header.gif)](https://github.com/gqster)
+[![Hello World, I'm Grant!](assets/cityLights.gif)](https://github.com/gqster)
 Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
 </div>
