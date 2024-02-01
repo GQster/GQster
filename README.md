@@ -22,7 +22,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 ## 💻 My Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gitlab,arduino,cpp,py,docker,linux,android" />
+    <img src="https://skillicons.dev/icons?i=gitlab,arduino,vscode,cpp,py,docker,linux,androidstudio" />
   </a>
 </p>
 
