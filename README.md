@@ -7,13 +7,22 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 - 🔭 I’m currently working as a software engineer and am a CS MS student at GaTech
 - 🌱 I’m currently learning machine learning 
-
+- 🛠️ Current projects include: [ESP32](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/) dodads, object detection thingies, [AOSP](https://source.android.com/docs/setup/about), and other random Knickknacks
+<--
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+  
 <div align="center">
   
 ## 💻 My Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,docker,py,linux" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,docker,py,linux,AOSP" />
   </a>
 </p>
 
