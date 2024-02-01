@@ -5,7 +5,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-- 🔭 I’m currently working on a CS MS at GaTech
+- 🔭 I’m currently working as a software engineer and am a CS MS student at GaTech
 - 🌱 I’m currently learning machine learning 
 
 <div align="center">
