@@ -8,6 +8,7 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 - 🔭 I’m currently working as a software engineer and am a CS MS student at GaTech
 - 🌱 I’m currently learning machine learning 
 - 🛠️ Current projects include: [ESP32](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/) dodads, object detection thingies, [AOSP](https://source.android.com/docs/setup/about), and other random knickknacks
+    Most of my projects can be found [here](https://github.com/GQstersProjects)
 
 <!--
 - 👯 I’m looking to collaborate on ...
